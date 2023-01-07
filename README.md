@@ -1,8 +1,9 @@
 # WindowsActivationFix
 Cleaners and spoofers not only remove activation, but often make it impossible to activate again.         
 
-The .bat file is the main tool.
-Use the .exe version if the .bat doesn't work'
+The Activation.bat file is the main tool.
+   
+Use Activation.bat.exe version if the Activation.bat doesn't work
   
 Activation.cpp is the source to Activation.exe
 
